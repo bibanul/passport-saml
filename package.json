@@ -22,7 +22,7 @@
     "xml2js": "0.2.0",
     "xml-crypto": "0.0.x",
     "xmldom": "0.1.x",
-    "xml-encryption": "0.1.x"
+    "xml-encryption": "git://github.com/bibanul/node-xml-encryption.git#master"
   },
   "devDependencies": {
     "express": "2.5.x",
