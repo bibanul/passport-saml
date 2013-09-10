@@ -1,6 +1,6 @@
 {
   "name": "passport-saml",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "licenses": [{
     "type": "MIT",
     "url": "https://github.com/bergie/passport-saml/raw/master/LICENSE"
@@ -19,7 +19,7 @@
   "main": "./lib/passport-saml",
   "dependencies": {
     "passport": "0.1.x",
-    "xml2js": "0.2.0",
+    "xml2js": "0.2.8",
     "xml-crypto": "0.0.x",
     "xmldom": "0.1.x",
     "xml-encryption": "git://github.com/bibanul/node-xml-encryption.git#master"
